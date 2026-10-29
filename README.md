@@ -31,6 +31,7 @@ python analise_credito.py
 
 - `grafico_inadimplencia.png`: gráficos de inadimplência por faixa de score, faixa etária e estado
 - `base_tratada.csv`: base após a limpeza
+- ![Gráfico de inadimplência](grafico_inadimplencia.png)
 
 ## Principais aprendizados
 
